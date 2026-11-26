@@ -1,2 +1,4 @@
 # enterprise-it-homelab
-A virtualized buisness IT enviorment using windows 
+
+A virtualized business IT environment using Windows
+
